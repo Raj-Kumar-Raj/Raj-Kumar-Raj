@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+![MasterHead](https://skwebdesigner.co.in/wp-content/uploads/2022/04/Engineering-Manager-MERN-Stack.gif)
 
 <h1 align="center">Hi 👋, I'm Raj Kumar Raj</h1>
 
