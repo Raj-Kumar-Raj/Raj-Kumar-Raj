@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kumar-raj&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kumar-raj" /> </p>
 
-## About Me
+ **About Me**
 
 Raj Kumar Raj, a 3rd-year Computer Science Engineering student at Hemvati Nandan Bahuguna Garhwal University (A Central University). Specializing in Java, Data Structures, Algorithms, and the MERN stack. Developed two major projects and several minor ones. Completed a virtual internship at Codsoft, gaining practical experience in Java and related technologies. Achieved a five-star rank on HackerRank, demonstrating proficiency in coding and problem-solving. Passionate about technology and eager to contribute, learn, and grow in the field of software development.
 
