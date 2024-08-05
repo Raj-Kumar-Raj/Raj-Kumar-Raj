@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kumar-raj&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kumar-raj" /> </p>
 
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=raj-kumar-raj" alt="raj-kumar-raj" />
-</p>
+
 
 - 🌱 I’m currently learning **MERN STACK**
 
